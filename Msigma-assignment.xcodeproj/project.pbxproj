@@ -79,9 +79,9 @@
 		82B25A7A2B027B0100030868 /* Msigma-assignment */ = {
 			isa = PBXGroup;
 			children = (
+				82B25A7B2B027B0100030868 /* Msigma_assignmentApp.swift */,
 				82B25AAF2B03449300030868 /* ViewModels */,
 				82B25AA82B03411F00030868 /* Model */,
-				82B25A7B2B027B0100030868 /* Msigma_assignmentApp.swift */,
 				82B25A8D2B027E8400030868 /* Views */,
 				82B25A912B027F4C00030868 /* Constants */,
 				82B25A9B2B0327A400030868 /* Resources */,

@@ -26,6 +26,7 @@ struct HomeView: View {
                     .scaledToFill()
             )
             .ignoresSafeArea(.all)
+            
         }
     }
 }
@@ -234,6 +235,7 @@ struct FeaturedCourseView: View {
                 .padding()
             }
         }
+        .padding(.bottom, 80)
     }
 }
 
